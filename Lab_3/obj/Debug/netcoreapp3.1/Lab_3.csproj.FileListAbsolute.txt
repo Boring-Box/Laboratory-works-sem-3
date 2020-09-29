@@ -1,0 +1,13 @@
+/home/boring-box/Documents/Laboratory-works-sem-3/Lab_3/obj/Debug/netcoreapp3.1/Lab_3.csprojAssemblyReference.cache
+/home/boring-box/Documents/Laboratory-works-sem-3/Lab_3/obj/Debug/netcoreapp3.1/Lab_3.AssemblyInfoInputs.cache
+/home/boring-box/Documents/Laboratory-works-sem-3/Lab_3/obj/Debug/netcoreapp3.1/Lab_3.AssemblyInfo.cs
+/home/boring-box/Documents/Laboratory-works-sem-3/Lab_3/obj/Debug/netcoreapp3.1/Lab_3.csproj.CoreCompileInputs.cache
+/home/boring-box/Documents/Laboratory-works-sem-3/Lab_3/bin/Debug/netcoreapp3.1/Lab_3
+/home/boring-box/Documents/Laboratory-works-sem-3/Lab_3/bin/Debug/netcoreapp3.1/Lab_3.deps.json
+/home/boring-box/Documents/Laboratory-works-sem-3/Lab_3/bin/Debug/netcoreapp3.1/Lab_3.runtimeconfig.json
+/home/boring-box/Documents/Laboratory-works-sem-3/Lab_3/bin/Debug/netcoreapp3.1/Lab_3.runtimeconfig.dev.json
+/home/boring-box/Documents/Laboratory-works-sem-3/Lab_3/bin/Debug/netcoreapp3.1/Lab_3.dll
+/home/boring-box/Documents/Laboratory-works-sem-3/Lab_3/bin/Debug/netcoreapp3.1/Lab_3.pdb
+/home/boring-box/Documents/Laboratory-works-sem-3/Lab_3/obj/Debug/netcoreapp3.1/Lab_3.dll
+/home/boring-box/Documents/Laboratory-works-sem-3/Lab_3/obj/Debug/netcoreapp3.1/Lab_3.pdb
+/home/boring-box/Documents/Laboratory-works-sem-3/Lab_3/obj/Debug/netcoreapp3.1/Lab_3.genruntimeconfig.cache
